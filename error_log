@@ -1,0 +1,572 @@
+[25-Apr-2017 05:50:42 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tandana'@'localhost' (using password: YES) in /home2/thisitz6/public_html/tandana/index.php on line 66
+[25-Apr-2017 05:50:46 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tandana'@'localhost' (using password: YES) in /home2/thisitz6/public_html/tandana/search.php on line 19
+[25-Apr-2017 05:50:48 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tandana'@'localhost' (using password: YES) in /home2/thisitz6/public_html/tandana/search.php on line 19
+[25-Apr-2017 05:50:49 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tandana'@'localhost' (using password: YES) in /home2/thisitz6/public_html/tandana/dances.php on line 70
+[25-Apr-2017 05:52:41 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tandana'@'localhost' (using password: YES) in /home2/thisitz6/public_html/tandana/dances.php on line 70
+[25-Apr-2017 05:52:43 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tandana'@'localhost' (using password: YES) in /home2/thisitz6/public_html/tandana/dances.php on line 70
+[25-Apr-2017 05:52:47 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tandana'@'localhost' (using password: YES) in /home2/thisitz6/public_html/tandana/index.php on line 66
+[25-Apr-2017 05:52:49 America/Denver] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tandana'@'localhost' (using password: YES) in /home2/thisitz6/public_html/tandana/dances.php on line 70
+[25-Apr-2017 05:55:59 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'thisitz6_tandana'@'localhost' to database 'thisitz6_tana_tandana' in /home2/thisitz6/public_html/tandana/index.php on line 66
+[25-Apr-2017 05:56:02 America/Denver] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'thisitz6_tandana'@'localhost' to database 'thisitz6_tana_tandana' in /home2/thisitz6/public_html/tandana/dances.php on line 70
+[25-Apr-2017 06:00:35 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/thisitz6/public_html/tandana/index.php on line 80
+[25-Apr-2017 06:00:38 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/thisitz6/public_html/tandana/dances.php on line 89
+[25-Apr-2017 06:00:41 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/thisitz6/public_html/tandana/index.php on line 80
+[25-Apr-2017 06:19:04 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 06:19:04 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 06:19:04 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 06:19:28 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 06:19:28 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 06:19:28 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 06:20:21 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 06:20:21 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 06:20:21 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 07:28:55 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 07:28:55 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 07:28:55 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 07:29:46 America/Denver] PHP Notice:  Undefined variable: login_id in /home2/thisitz6/public_html/tandana/create_user.php on line 66
+[25-Apr-2017 07:29:46 America/Denver] PHP Notice:  Undefined variable: sqlUpdate in /home2/thisitz6/public_html/tandana/create_user.php on line 68
+[25-Apr-2017 07:29:46 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home2/thisitz6/public_html/tandana/create_user.php on line 68
+[25-Apr-2017 22:10:52 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:10:52 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:10:52 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:11:24 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:11:24 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:11:24 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:13:21 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:13:21 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:13:21 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:17:26 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:17:26 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:17:26 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:22:30 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:22:30 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:22:30 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:27:03 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:27:03 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:27:03 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:30:29 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:30:29 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[25-Apr-2017 22:30:29 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[26-Apr-2017 07:35:40 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[26-Apr-2017 07:35:40 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[26-Apr-2017 07:35:40 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[27-Apr-2017 05:43:10 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[27-Apr-2017 05:43:10 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[27-Apr-2017 05:43:10 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[27-Apr-2017 05:44:08 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x3 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[27-Apr-2017 05:44:08 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x4 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[27-Apr-2017 05:44:08 America/Denver] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x14 in Entity, line: 2 in /home2/thisitz6/public_html/tandana/Classes/PHPExcel/Reader/HTML.php on line 495
+[27-Apr-2017 07:20:05 America/Denver] PHP Notice:  Undefined variable: login_id in /home2/thisitz6/public_html/tandana/create_user.php on line 66
+[27-Apr-2017 07:20:05 America/Denver] PHP Notice:  Undefined variable: sqlUpdate in /home2/thisitz6/public_html/tandana/create_user.php on line 68
+[27-Apr-2017 07:20:05 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home2/thisitz6/public_html/tandana/create_user.php on line 68
+[28-Apr-2017 09:05:39 America/Denver] PHP Notice:  Undefined variable: login_id in /home2/thisitz6/public_html/tandana/create_user.php on line 66
+[28-Apr-2017 09:05:39 America/Denver] PHP Notice:  Undefined variable: sqlUpdate in /home2/thisitz6/public_html/tandana/create_user.php on line 68
+[28-Apr-2017 09:05:39 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home2/thisitz6/public_html/tandana/create_user.php on line 68
+[25-May-2017 18:19:28 America/Denver] PHP Notice:  Undefined variable: login_id in /home2/thisitz6/public_html/tandana/create_user.php on line 66
+[25-May-2017 18:19:28 America/Denver] PHP Notice:  Undefined variable: sqlUpdate in /home2/thisitz6/public_html/tandana/create_user.php on line 68
+[25-May-2017 18:19:28 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home2/thisitz6/public_html/tandana/create_user.php on line 68
+[21-Jun-2017 06:11:44 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[21-Jun-2017 06:11:44 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[21-Jun-2017 06:43:34 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/thisitz6/public_html/tandana/view.php:282) in /home2/thisitz6/public_html/tandana/view.php on line 292
+[21-Jun-2017 06:43:38 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/thisitz6/public_html/tandana/view.php:282) in /home2/thisitz6/public_html/tandana/view.php on line 292
+[21-Jun-2017 06:45:04 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[21-Jun-2017 06:45:04 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[24-Jun-2017 15:09:23 America/Denver] PHP Notice:  Undefined variable: result in /home2/thisitz6/public_html/tandana/update.php on line 262
+[24-Jun-2017 15:09:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/thisitz6/public_html/tandana/update.php on line 262
+[24-Jun-2017 17:41:26 America/Denver] PHP Notice:  Undefined variable: result in /home2/thisitz6/public_html/tandana/update.php on line 262
+[24-Jun-2017 17:41:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/thisitz6/public_html/tandana/update.php on line 262
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[24-Jun-2017 19:29:06 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[24-Jun-2017 19:50:21 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[24-Jun-2017 21:20:42 America/Denver] PHP Notice:  Undefined variable: result in /home2/thisitz6/public_html/tandana/update.php on line 262
+[24-Jun-2017 21:20:42 America/Denver] PHP Notice:  Trying to get property of non-object in /home2/thisitz6/public_html/tandana/update.php on line 262
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[25-Jun-2017 08:55:48 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[25-Jun-2017 09:31:51 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[26-Jun-2017 21:27:40 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[26-Jun-2017 21:51:56 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[26-Jun-2017 22:02:17 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[27-Jun-2017 14:02:13 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[27-Jun-2017 14:02:13 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[28-Jun-2017 04:24:01 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[28-Jun-2017 04:24:01 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[28-Jun-2017 05:53:14 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[28-Jun-2017 06:01:42 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[30-Jun-2017 20:26:00 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[01-Jul-2017 18:53:13 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_english_name in /home2/thisitz6/public_html/tandana/view.php on line 19
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_alternate_name in /home2/thisitz6/public_html/tandana/view.php on line 20
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_telugu_name in /home2/thisitz6/public_html/tandana/view.php on line 21
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_category in /home2/thisitz6/public_html/tandana/view.php on line 22
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_origin in /home2/thisitz6/public_html/tandana/view.php on line 23
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_description in /home2/thisitz6/public_html/tandana/view.php on line 24
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_image_reference in /home2/thisitz6/public_html/tandana/view.php on line 25
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_video_reference in /home2/thisitz6/public_html/tandana/view.php on line 26
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_key_words in /home2/thisitz6/public_html/tandana/view.php on line 27
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_artist_images in /home2/thisitz6/public_html/tandana/view.php on line 28
+[01-Jul-2017 19:10:53 America/Denver] PHP Notice:  Undefined index: confirmation_links in /home2/thisitz6/public_html/tandana/view.php on line 29
+[01-Jul-2017 20:56:59 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[01-Jul-2017 20:56:59 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[01-Jul-2017 20:57:23 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[01-Jul-2017 20:57:23 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[01-Jul-2017 20:57:35 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[01-Jul-2017 20:57:35 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[01-Jul-2017 20:59:20 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[01-Jul-2017 20:59:20 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 07:42:56 America/Denver] PHP Notice:  Undefined variable: copyright_c in /home2/thisitz6/public_html/tandana/configure_submitted.php on line 73
+[02-Jul-2017 07:58:04 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 80
+[02-Jul-2017 07:58:09 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 80
+[02-Jul-2017 07:58:09 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 80
+[02-Jul-2017 07:58:10 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 80
+[02-Jul-2017 07:59:06 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 07:59:17 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 07:59:19 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:02:08 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:02:21 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:02:23 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:02:37 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:02:52 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:03:15 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 08:03:15 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 08:04:45 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 08:04:45 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 08:05:23 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 08:05:23 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 08:10:23 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 08:10:23 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 08:10:48 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 08:10:48 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 08:12:31 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:13:27 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:14:46 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:37:34 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:38:10 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:38:11 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:38:12 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:38:22 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:38:38 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:39:02 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:40:16 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:51:47 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 08:53:35 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 09:15:15 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home2/thisitz6/public_html/tandana/about.php on line 39
+[02-Jul-2017 09:15:19 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home2/thisitz6/public_html/tandana/about.php on line 39
+[02-Jul-2017 09:15:24 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home2/thisitz6/public_html/tandana/about.php on line 39
+[02-Jul-2017 09:16:14 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home2/thisitz6/public_html/tandana/about.php on line 39
+[02-Jul-2017 09:17:27 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home2/thisitz6/public_html/tandana/about.php on line 39
+[02-Jul-2017 09:17:28 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home2/thisitz6/public_html/tandana/about.php on line 39
+[02-Jul-2017 09:17:28 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home2/thisitz6/public_html/tandana/about.php on line 39
+[02-Jul-2017 09:17:31 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home2/thisitz6/public_html/tandana/about.php on line 39
+[02-Jul-2017 09:21:49 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 09:23:59 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 09:24:03 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 09:24:04 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 09:24:39 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 09:24:43 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 09:24:44 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 09:25:44 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 09:27:44 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 20:50:12 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 20:50:12 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[02-Jul-2017 20:50:16 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Jul-2017 20:51:47 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Jul-2017 10:04:42 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Jul-2017 17:28:33 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[04-Jul-2017 10:01:53 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[04-Jul-2017 10:02:09 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[04-Jul-2017 10:02:24 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Jul-2017 06:33:05 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Jul-2017 10:27:04 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Jul-2017 10:28:19 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jul-2017 03:20:36 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jul-2017 21:05:22 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jul-2017 21:05:39 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jul-2017 21:05:47 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jul-2017 21:19:28 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jul-2017 21:46:56 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jul-2017 21:46:56 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jul-2017 21:47:04 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jul-2017 21:47:04 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jul-2017 23:12:35 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:25:21 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:26:00 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:27:10 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:27:13 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:27:24 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:27:34 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:28:34 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:28:41 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:28:44 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:29:08 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:43:40 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:43:40 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:43:45 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:43:48 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:44:22 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:45:03 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:45:30 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:45:42 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:45:46 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:45:48 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:46:15 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:46:32 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 10:46:42 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 14:11:19 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[11-Jul-2017 14:11:27 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:04:03 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:04:33 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:05:39 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:05:55 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:06:47 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:09:09 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:10:01 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:11:49 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:12:26 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:13:32 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 00:13:53 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 03:20:38 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 03:21:39 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 03:35:02 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 04:01:21 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 04:05:13 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Jul-2017 04:21:33 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[13-Jul-2017 10:29:05 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[13-Jul-2017 10:35:43 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[13-Jul-2017 10:36:41 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[13-Jul-2017 10:38:36 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[13-Jul-2017 10:50:06 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[13-Jul-2017 10:50:50 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[17-Jul-2017 08:12:19 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[17-Jul-2017 08:45:57 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:38:40 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:39:01 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:43:32 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:45:31 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:45:59 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:52:21 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:52:49 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:52:56 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:53:39 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:56:06 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 21:56:27 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Jul-2017 22:02:32 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Jul-2017 18:47:24 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Jul-2017 18:47:51 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Jul-2017 15:10:33 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Jul-2017 15:10:36 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Jul-2017 15:10:38 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[22-Jul-2017 20:30:25 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[22-Jul-2017 20:30:41 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[22-Jul-2017 20:30:54 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[22-Jul-2017 20:30:56 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[22-Jul-2017 20:32:21 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[22-Jul-2017 20:34:04 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[23-Jul-2017 02:15:56 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[23-Jul-2017 02:16:18 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[23-Jul-2017 20:03:31 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[23-Jul-2017 20:05:10 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[26-Jul-2017 17:43:33 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[26-Jul-2017 21:54:30 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[26-Jul-2017 21:55:47 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[26-Jul-2017 22:06:22 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[26-Jul-2017 22:18:34 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[28-Jul-2017 12:48:05 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[31-Jul-2017 14:22:18 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[01-Aug-2017 07:54:45 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[01-Aug-2017 10:04:21 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[01-Aug-2017 10:07:30 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[01-Aug-2017 10:07:42 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Aug-2017 12:38:48 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Aug-2017 12:54:33 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Aug-2017 10:08:51 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Aug-2017 06:45:07 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Aug-2017 06:51:06 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Aug-2017 15:24:06 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:35:33 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:38:27 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:38:41 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:38:45 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:38:49 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:45:49 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:45:53 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:45:57 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:45:58 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:46:01 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:46:05 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Aug-2017 14:46:20 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Aug-2017 06:52:06 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[22-Aug-2017 11:10:27 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[22-Aug-2017 18:30:13 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[23-Aug-2017 06:02:31 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[28-Aug-2017 01:49:11 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[28-Aug-2017 01:50:59 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[28-Aug-2017 01:51:54 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[01-Sep-2017 19:11:48 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Sep-2017 23:36:30 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[07-Sep-2017 10:51:44 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[07-Sep-2017 13:18:03 America/Denver] PHP Notice:  Undefined variable: dance_id in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[07-Sep-2017 13:18:03 America/Denver] PHP Notice:  Undefined variable: dance_english_name in /home2/thisitz6/public_html/tandana/delete.php on line 79
+[07-Sep-2017 13:19:00 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Sep-2017 09:02:22 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Sep-2017 09:08:42 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Sep-2017 09:09:05 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Sep-2017 09:10:24 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Sep-2017 09:12:40 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Sep-2017 09:14:24 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Sep-2017 00:13:40 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Sep-2017 00:16:21 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Sep-2017 05:56:56 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Sep-2017 05:57:11 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 17:24:13 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 17:24:18 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 17:36:23 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 17:36:57 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 17:37:04 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 17:37:08 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 17:37:12 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 17:37:15 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 17:37:18 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 17:38:07 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 18:54:26 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 19:16:36 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 19:16:38 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 19:16:48 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 19:22:46 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[21-Sep-2017 19:26:12 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[25-Sep-2017 00:46:57 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Oct-2017 16:50:36 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Oct-2017 17:21:33 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Oct-2017 17:21:37 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Oct-2017 17:21:40 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Oct-2017 17:21:47 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Oct-2017 14:39:48 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Oct-2017 14:40:27 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Oct-2017 14:48:05 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Oct-2017 14:55:05 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Oct-2017 15:50:30 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Oct-2017 17:31:39 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Oct-2017 17:00:09 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Oct-2017 17:01:13 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Oct-2017 17:31:21 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Oct-2017 17:33:37 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[15-Oct-2017 08:12:49 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[15-Oct-2017 10:04:15 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Oct-2017 20:37:27 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Oct-2017 20:50:55 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[23-Oct-2017 15:48:35 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Nov-2017 08:41:58 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Nov-2017 08:44:22 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[04-Nov-2017 06:22:05 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Nov-2017 09:21:07 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Nov-2017 09:52:35 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Nov-2017 09:57:02 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Nov-2017 10:06:49 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Nov-2017 10:07:02 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[07-Nov-2017 13:20:48 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[07-Nov-2017 17:18:40 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[07-Nov-2017 17:18:47 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[09-Nov-2017 08:45:44 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[09-Nov-2017 17:13:42 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[09-Nov-2017 17:14:17 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Nov-2017 11:09:35 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Nov-2017 23:09:12 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Nov-2017 08:59:16 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[29-Nov-2017 11:39:40 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[29-Nov-2017 11:41:39 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[29-Nov-2017 11:41:57 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[29-Nov-2017 11:43:41 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[01-Dec-2017 10:33:51 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Dec-2017 21:45:06 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Dec-2017 21:48:45 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Dec-2017 22:19:02 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Dec-2017 22:19:17 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Dec-2017 22:21:47 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[02-Dec-2017 22:22:20 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[03-Dec-2017 10:33:55 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[04-Dec-2017 11:10:33 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[04-Dec-2017 11:18:00 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[09-Dec-2017 20:38:29 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[09-Dec-2017 20:39:49 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[09-Dec-2017 20:40:56 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[09-Dec-2017 21:24:38 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[09-Dec-2017 21:26:08 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Dec-2017 11:59:55 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Dec-2017 11:59:59 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Dec-2017 12:00:36 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Dec-2017 12:00:50 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Dec-2017 21:28:34 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Dec-2017 17:40:52 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Dec-2017 20:32:32 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Dec-2017 20:32:44 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[13-Dec-2017 20:51:02 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[15-Dec-2017 13:12:16 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[15-Dec-2017 13:37:03 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[18-Dec-2017 09:45:28 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[18-Dec-2017 12:42:55 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Dec-2017 10:16:38 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[19-Dec-2017 10:29:51 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Dec-2017 07:40:49 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Dec-2017 11:57:42 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Dec-2017 11:59:32 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Dec-2017 12:01:50 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Dec-2017 12:03:22 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[20-Dec-2017 12:04:13 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[22-Dec-2017 19:59:44 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[05-Jan-2018 17:36:28 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Jan-2018 06:34:27 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Jan-2018 06:36:17 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Jan-2018 06:36:24 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Jan-2018 06:53:43 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jan-2018 15:25:30 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jan-2018 16:12:40 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jan-2018 16:12:53 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jan-2018 16:13:13 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[10-Jan-2018 16:15:00 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[17-Jan-2018 13:51:25 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[08-Feb-2018 02:11:37 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Mar-2018 13:08:32 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Mar-2018 13:08:35 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Mar-2018 13:08:38 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[12-Mar-2018 13:08:42 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:34:27 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:38:19 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:39:11 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:40:42 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:41:51 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:41:57 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:42:10 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:42:28 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:43:04 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:50:35 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:50:38 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:50:44 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:50:49 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[06-Apr-2018 05:50:58 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 15:16:22 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 15:16:25 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 15:16:27 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 15:53:31 America/Denver] PHP Notice:  Undefined variable: login_id in /home2/thisitz6/public_html/tandana/create_user.php on line 66
+[14-Jun-2018 15:53:31 America/Denver] PHP Notice:  Undefined variable: sqlUpdate in /home2/thisitz6/public_html/tandana/create_user.php on line 68
+[14-Jun-2018 15:53:31 America/Denver] PHP Warning:  mysqli::query(): Empty query in /home2/thisitz6/public_html/tandana/create_user.php on line 68
+[14-Jun-2018 15:55:20 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 15:55:26 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 17:48:14 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 17:52:58 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 17:52:58 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 17:53:01 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 17:53:05 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 18:04:38 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 18:31:17 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 18:31:57 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 19:01:11 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 19:05:09 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 19:05:21 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
+[14-Jun-2018 19:05:22 America/Denver] PHP Notice:  Undefined variable: english_menu_order in /home2/thisitz6/public_html/tandana/dances.php on line 79
