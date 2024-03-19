@@ -1,5 +1,4 @@
 <html>
-
 <head>
     <title>Artists</title>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.0.0/css/dataTables.dataTables.min.css">
@@ -29,9 +28,9 @@
         <?PHP include 'navigation.php';
             require_once('db_configuration.php');
             if(!isset($_SESSION)) 
-                { 
-                    session_start(); 
-                } 
+            { 
+                session_start(); 
+            } 
 
             // Establishing Connection with Server
             $servername = DATABASE_HOST;
@@ -39,9 +38,10 @@
             $db_password = DATABASE_PASSWORD;
             $database = DATABASE_DATABASE;
 
-            $conn = new mysqli(DATABASE_HOST, DATABASE_USER, DATABASE_PASSWORD, DATABASE_DATABASE);
-
             // Create connection
+            $conn = new mysqli(DATABASE_HOST, DATABASE_USER, DATABASE_PASSWORD, DATABASE_DATABASE);
+            $conn = new mysqli("localhost","root" ,"" , "tandana_db");        
+
             if ($conn->connect_error) {
                 die('Connect Error (' . $conn->connect_errno . ') '
                         . $conn->connect_error);
@@ -81,30 +81,30 @@
                 echo "<tbody>";
                 
                 if(isset($_SESSION['username'])){
-                echo '<img src="assets/images/index_dance.png" id="image" width="100px" height="100px">';
-                
-                $edit="update_artists.php";
-                $delete="delete_artist.php";
-                $link='<a href=$edit>Edit</a>'.'<a href=$delete>Delete</a>';
+                    echo '<img src="assets/images/index_dance.png" id="image" width="100px" height="100px">';
+                    
+                    $edit="update_artists.php";
+                    $delete="delete_artist.php";
+                    $link='<a href=$edit>Edit</a>'.'<a href=$delete>Delete</a>';
 
-                $row=mysqli_fetch_row($fetch);
-                for($i=0;$i<$num;$i++) //?id=.$row[0].
-                {
-                $row=mysqli_fetch_row($fetch);
-                if ($row !== null) {
-                    echo "<tr>";
-                    echo '<td><a href="' . $edit . '?id=' . $row[0] . '">Edit</a> <a href="' . $delete . '?id=' . $row[0] . '">Delete</a></td>';
-                    for ($j = 0; $j < count($row); $j++) {
-                        echo '<td>' . $row[$j] . '</td>';
+                    $row=mysqli_fetch_row($fetch);
+                    for($i=0;$i<$num;$i++) //?id=.$row[0].
+                    {
+                    $row=mysqli_fetch_row($fetch);
+                    if ($row !== null) {
+                        echo "<tr>";
+                        echo '<td><a href="' . $edit . '?id=' . $row[0] . '">Edit</a> <a href="' . $delete . '?id=' . $row[0] . '">Delete</a></td>';
+                        for ($j = 0; $j < count($row); $j++) {
+                            echo '<td>' . $row[$j] . '</td>';
+                        }
+                        echo "</tr>";
+                    } else {
+                        echo '<tr><td colspan="12"></td></tr>';
+                        // Alternatively, you could redirect the user to a different page or perform other actions.
                     }
-                    echo "</tr>";
-                } else {
-                    echo '<tr><td colspan="12"></td></tr>';
-                    // Alternatively, you could redirect the user to a different page or perform other actions.
-                }
-                }
+                    }
 
-                echo "</tbody></table>";
+                    echo "</tbody></table>";
                 }              
                 //only admins can see this (above part)
                 $row=mysqli_fetch_row($fetch);

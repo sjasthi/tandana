@@ -1,5 +1,4 @@
 <html>
-
 <head>
   <title>Resources</title>
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.0.0/css/dataTables.dataTables.min.css">
@@ -9,7 +8,7 @@
   <style type="text/css">
       .link {
           position:relative; 
-          top:700px;
+          top:800px;
       }
   </style>
 </head>
@@ -17,7 +16,10 @@
   <form method='get'>
     <?PHP include 'navigation.php';
     require_once('db_configuration.php');
-
+    if(!isset($_SESSION)) 
+    { 
+      session_start(); 
+    } 
 
     // Establishing Connection with Server
     $servername = DATABASE_HOST;
@@ -26,8 +28,9 @@
     $database = DATABASE_DATABASE;
 
     // Create connection
-    
     $conn = new mysqli(DATABASE_HOST, DATABASE_USER, DATABASE_PASSWORD, DATABASE_DATABASE);
+    $conn = new mysqli("localhost","root" ,"" , "tandana_db");
+
     if ($conn->connect_error) {
         die('Connect Error (' . $conn->connect_errno . ') '
                 . $conn->connect_error);

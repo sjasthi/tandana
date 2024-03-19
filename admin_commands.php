@@ -34,10 +34,10 @@ if(isset($_SESSION['username'])){
     </td>
     <td style="padding: 20px">
         <center>
-        <a href="create.php">
+        <a href="create_dances.php">
         <img src="assets/images/add.png" width="150px" height="150px"/>
         <br>
-        Add
+        Add Dances
         </a>
         </center>
     </td>
@@ -305,14 +305,6 @@ if(isset($_SESSION['username'])){
     </td>
     <td style="padding: 20px">
         <center>
-        <a href="update_resources.php">
-        <img src="assets/images/index.png" width="150px" height="150px"/>
-        <br>
-        Edit Resources
-        </a>
-        </center>
-     <td style="padding: 20px">
-        <center>
         <a href="create_artists.php">
         <img src="assets/images/index_dance.png" width="150px" height="150px"/>
         <br>
@@ -321,14 +313,14 @@ if(isset($_SESSION['username'])){
         </center>
     </td>
     <td style="padding: 20px">
-        <center>
-        <a href="update_artists.php">
-        <img src="assets/images/edit.png" width="150px" height="150px"/>
-        <br>
-        Edit Artist
-        </a>
-        </center>
-    </td>
+    <center>
+    <a href="manage_dances.php">
+    <img src="assets/images/index_dance.png" width="150px" height="150px"/>
+    <br>
+    Dances
+    </a>
+    </center>
+</td>
     </td>
     </tr>
     </tr>
