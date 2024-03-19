@@ -59,10 +59,11 @@ $header_image = header_image;
         <input class="page_submit" type="submit" name="searchButton" value="Search"/>
         </form>
         </li>
-        <li class="page_resources"><a class ="menubar" href="Resources.php">Resources</a></li>
+        <!-- <li class="page_resources"><a class ="menubar" href="Resources.php">Resources</a></li> -->
         <li class="filter"><a class ="menubar" href="filter.php">Filter</a></li>
         <li class="settings"><a class ="menubar" href="settings.php">Settings</a></li>
-        <li class="create_form"><a class ="menubar" href="create.php">Create A New Dance</a></li>
+        <!-- <li class="create_form"><a class ="menubar" href="create.php">Create A New Dance</a></li> -->
+        <li class="dance_form"><a class ="menubar" href="dancesuggested.php">Suggested Dances</a></li>
 
       </ul>
       <ul class="nav navbar-nav float_right">
