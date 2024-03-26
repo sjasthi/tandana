@@ -28,12 +28,43 @@ $header_image = header_image;
     color:white;
   }
 </style>
+<script>
+    window.onload = function() {
+      // Ensure that the header_image is fully loaded
+      var headerImage = document.getElementById('header_image');
+      if(headerImage.complete) {
+        setNavWidth();
+      } else {
+        headerImage.onload = setNavWidth;
+      }
+      
+      function setNavWidth() {
+        var imageWidth = headerImage.offsetWidth; // Get the width of the header image
+        var navbar = document.querySelector('.navbar-default'); // Get the navbar element
+        navbar.style.width = imageWidth + 'px'; // Set the width of the navbar to match the image
+      }
+    }
+  </script>
+  <script>
+    function adjustNavWidth() {
+        var headerImage = document.getElementById('header_image');
+        var navbar = document.querySelector('.navbar-default');
+        var imageWidth = headerImage.offsetWidth; // Get the width of the header image
+
+        // Set the width of the navbar to match the image
+        navbar.style.width = imageWidth + 'px'; 
+    }
+
+    // Run the function on window resize and load
+    window.addEventListener('resize', adjustNavWidth);
+    window.addEventListener('load', adjustNavWidth);
+</script>
 </head>
 <body>
 <div class="masthead_wrapper" style="height: 322px;">
 <div class="masthead">
 <?php echo '
-  <img src="assets/images/'.$header_image.'" width="100%" height="272" id="header_image"/>
+  <img src="assets/images/'.$header_image.'" style="width: 100%; height: auto;" id="header_image"/>
   ';
 ?>
 </div>
@@ -63,7 +94,7 @@ $header_image = header_image;
         <li class="filter"><a class ="menubar" href="filter.php">Filter</a></li>
         <li class="settings"><a class ="menubar" href="settings.php">Settings</a></li>
         <!-- <li class="create_form"><a class ="menubar" href="create.php">Create A New Dance</a></li> -->
-        <li class="dance_form"><a class ="menubar" href="dancesuggested.php">Suggested Dances</a></li>
+        <!-- <li class="dance_form"><a class ="menubar" href="dancesuggested.php">Suggested Dances</a></li> -->
 
       </ul>
       <ul class="nav navbar-nav float_right">
