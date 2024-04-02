@@ -10,11 +10,11 @@ if(isset($_SESSION['username'])){
 
     echo 
     '
-    <div class="container top_space" style="padding-top: 60px" >
+    <div class="container top_space"  >
     <center>
     <table>
     <tr>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="compile.php">
         <img src="assets/images/13.png" width="150px" height="150px"/>
@@ -23,7 +23,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="html.php" target="_blank">
         <img src="assets/images/11.png" width="150px" height="150px"/>
@@ -32,7 +32,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="create_dances.php">
         <img src="assets/images/14.png" width="150px" height="150px"/>
@@ -41,7 +41,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="profile.php">
         <img src="assets/images/3.png" width="150px" height="150px"/>
@@ -50,7 +50,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="report.php">
         <img src="assets/images/12.png" width="150px" height="150px"/>
@@ -61,7 +61,7 @@ if(isset($_SESSION['username'])){
     </td>
     </tr>
     <tr>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="export.php">
         <img src="assets/images/9.png" width="150px" height="150px"/>
@@ -70,7 +70,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="import.php">
         <img src="assets/images/8.png" width="150px" height="150px"/>
@@ -79,7 +79,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="contents.php">
         <img src="assets/images/7.png" width="150px" height="150px"/>
@@ -88,7 +88,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="images.php">
         <img src="assets/images/6.png" width="150px" height="150px"/>
@@ -97,7 +97,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="videos.php">
         <img src="assets/images/5.png" width="150px" height="150px"/>
@@ -106,7 +106,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="configure_edit.php">
         <img src="assets/images/2.png" width="150px" height="150px"/>
@@ -116,7 +116,7 @@ if(isset($_SESSION['username'])){
         </center>
     </td>
     <tr>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="create_resources.php">
         <img src="assets/images/4.png" width="150px" height="150px"/>
@@ -125,7 +125,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="create_artists.php">
         <img src="assets/images/10.png" width="150px" height="150px"/>
@@ -134,7 +134,7 @@ if(isset($_SESSION['username'])){
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
     <center>
     <a href="manage_dances.php">
     <img src="assets/images/1.png" width="150px" height="150px"/>

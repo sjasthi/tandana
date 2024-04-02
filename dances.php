@@ -1,17 +1,15 @@
-<?php include 'navigation.php';
-
-
-// Start session to store variables
-if(!isset($_SESSION)) 
-    { 
-        session_start(); 
-    } 
-
-// Allows user to return 'back' to this page
-ini_set('session.cache_limiter','public');
+<?php 
+// Adjust these settings before starting the session
+ini_set('session.cache_limiter', 'public');
 session_cache_limiter(false);
 
- ?>
+// Start session to store variables
+if (!isset($_SESSION)) { 
+    session_start(); 
+} 
+
+include 'navigation.php';
+?>
 <div class="col-md-2 left_nav" style="padding-left: 0;">
 <div class="translation_wrapper">
             <div><a class="dance_telugu_name" href="#" onClick="sortTeluguName('ALL')"> </a></div>
