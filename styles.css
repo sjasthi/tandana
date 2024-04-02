@@ -183,3 +183,11 @@ label {color: #ffffff;}
 
 /* configure_edit Form styles */
 .configure_form label { color:#000000; }
+
+.page-break {
+    page-break-after: always;
+    width: 100%;
+    height: 20px; 
+    background-color: #f0f0f0; 
+    margin: 20px 0; 
+}

@@ -1,19 +1,19 @@
-<?php include 'navigation.php';
-// Fetching variables of the form which travels in URL
-$lang_type = $_GET['lang_type'];
-$lang_filter_type = $_GET['lang_filter_type'];
-$dance_type = $_GET['dance_type'];
-$dance_filter_type = $_GET['dance_filter_type'];
-//echo('<script>alert($lang_type);</script>');
-if($lang_type !=''&& $lang_filter_type !=''&& $dance_type !=''&& $dance_filter_type !='')
-{
-//  To redirect form on a particular page
-header("Location:index.php");
-die(); //graceful exit
-}
-else{
-  //echo('<script>alert("is empty for all");</script>');
-}
+<?php
+include 'navigation.php';
+
+// Check if the keys exist in the $_GET array before accessing them
+$lang_type = isset($_GET['lang_type']) ? $_GET['lang_type'] : '';
+$lang_filter_type = isset($_GET['lang_filter_type']) ? $_GET['lang_filter_type'] : '';
+$dance_type = isset($_GET['dance_type']) ? $_GET['dance_type'] : '';
+$dance_filter_type = isset($_GET['dance_filter_type']) ? $_GET['dance_filter_type'] : '';
+
+if ($lang_type != '' && $lang_filter_type != '' && $dance_type != '' && $dance_filter_type != '') {
+    // Redirect form on a particular page
+    header("Location:index.php");
+    exit(); // Use exit instead of die for graceful exit
+} else {
+    // Handle the case where some or all parameters are empty
+    //echo('<script>alert("is empty for all");</script>');
 ?>
 ?>
 <html>

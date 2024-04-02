@@ -248,17 +248,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
 		$update = $conn->query($sqlUpdate);
 
 
-	if ($conn->query($sql) === TRUE) {
-    echo "New record created successfully.";
+	if ($conn->query($sql) == TRUE) {
+    echo "New record updated successfully.\n";
 	}
 	else {
     echo "Error: " . $sql . "<br>" . $conn->error;
 	}
 
 	$conn->close();
-
-		header('Location: search.php?update=success');
-
 	}
 
 }

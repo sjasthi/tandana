@@ -391,7 +391,7 @@ function test_input($data){
 <tr>
 <td>
 <div id="filediv">
-<input type="file" style="color: #000" name="file[]" id="file">
+<input type="file"style="color: #000" name="file[]" id="file">
 <input type="button" style="color: #000" id="add_more" value="Add More Files" />
 <span class="error"><?php echo $artist_images_error;?></span>
 </div>
