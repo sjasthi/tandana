@@ -14,6 +14,7 @@ if ($lang_type != '' && $lang_filter_type != '' && $dance_type != '' && $dance_f
 } else {
     // Handle the case where some or all parameters are empty
     //echo('<script>alert("is empty for all");</script>');
+}
 ?>
 ?>
 <html>
