@@ -10,14 +10,14 @@ if(isset($_SESSION['username'])){
 
     echo 
     '
-    <div class="container top_space">
+    <div class="container top_space" style="padding-top: 60px" >
     <center>
     <table>
     <tr>
     <td style="padding: 20px">
         <center>
         <a href="compile.php">
-        <img src="assets/images/compile.png" width="150px" height="150px"/>
+        <img src="assets/images/13.png" width="150px" height="150px"/>
         <br>
         Compile
         </a>
@@ -26,7 +26,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="html.php" target="_blank">
-        <img src="assets/images/html.png" width="150px" height="150px"/>
+        <img src="assets/images/11.png" width="150px" height="150px"/>
         <br>
         HTML
         </a>
@@ -35,7 +35,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="create_dances.php">
-        <img src="assets/images/add.png" width="150px" height="150px"/>
+        <img src="assets/images/14.png" width="150px" height="150px"/>
         <br>
         Add Dances
         </a>
@@ -44,7 +44,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="profile.php">
-        <img src="assets/images/users.png" width="150px" height="150px"/>
+        <img src="assets/images/3.png" width="150px" height="150px"/>
         <br>
         Users
         </a>
@@ -53,7 +53,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="report.php">
-        <img src="assets/images/report.png" width="150px" height="150px"/>
+        <img src="assets/images/12.png" width="150px" height="150px"/>
         <br>
         Report
         </a>
@@ -64,7 +64,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="export.php">
-        <img src="assets/images/export.png" width="150px" height="150px"/>
+        <img src="assets/images/9.png" width="150px" height="150px"/>
         <br>
         Export
         </a>
@@ -73,7 +73,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="import.php">
-        <img src="assets/images/import.png" width="150px" height="150px"/>
+        <img src="assets/images/8.png" width="150px" height="150px"/>
         <br>
         Import
         </a>
@@ -82,7 +82,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="contents.php">
-        <img src="assets/images/contents.png" width="150px" height="150px"/>
+        <img src="assets/images/7.png" width="150px" height="150px"/>
         <br>
         Contents
         </a>
@@ -91,7 +91,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="images.php">
-        <img src="assets/images/images.png" width="150px" height="150px"/>
+        <img src="assets/images/6.png" width="150px" height="150px"/>
         <br>
         Images
         </a>
@@ -100,7 +100,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="videos.php">
-        <img src="assets/images/videos.png" width="150px" height="150px"/>
+        <img src="assets/images/5.png" width="150px" height="150px"/>
         <br>
         Videos
         </a>
@@ -109,7 +109,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="configure_edit.php">
-        <img src="assets/images/configure.png" width="150px" height="150px"/>
+        <img src="assets/images/2.png" width="150px" height="150px"/>
         <br>
         Configure
         </a>
@@ -119,7 +119,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="create_resources.php">
-        <img src="assets/images/003-512.png" width="150px" height="150px"/>
+        <img src="assets/images/4.png" width="150px" height="150px"/>
         <br>
         Create Resources
         </a>
@@ -128,7 +128,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
         <center>
         <a href="create_artists.php">
-        <img src="assets/images/index_dance.png" width="150px" height="150px"/>
+        <img src="assets/images/10.png" width="150px" height="150px"/>
         <br>
         Create Artist
         </a>
@@ -137,9 +137,9 @@ if(isset($_SESSION['username'])){
     <td style="padding: 20px">
     <center>
     <a href="manage_dances.php">
-    <img src="assets/images/index_dance.png" width="150px" height="150px"/>
+    <img src="assets/images/1.png" width="150px" height="150px"/>
     <br>
-    Dances
+    Manage Dances
     </a>
     </center>
 </td>
