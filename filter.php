@@ -16,13 +16,13 @@ if ($lang_type != '' && $lang_filter_type != '' && $dance_type != '' && $dance_f
     //echo('<script>alert("is empty for all");</script>');
 }
 ?>
-?>
 <html>
 <head>
 <style type="text/css">
 	.form-horizontal{
 		position: absolute;
 		top:400px;
+    margin-top: 40px;
 	}
 	.btn-custom{
 		position: absolute;

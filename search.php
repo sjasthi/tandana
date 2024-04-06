@@ -717,7 +717,12 @@ $conn->set_charset("utf8");
     if ($(this).children('div').length === 1) $(this).siblings('.carousel-control, .carousel-indicators').hide();
     });
 </script>
-
+<style type="text/css">
+	.container {
+    padding-top: 0 !important; 
+    position: relative; 
+    top: 0 !important; 
+}
 <footer>
 <?php include 'footer.php'; ?>
 </footer>

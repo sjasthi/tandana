@@ -62,6 +62,7 @@ $conn->close();
         cursor: pointer; 
         text-align: center; 
     }
+    
     .centered-button:hover {
         background-color: #45a049; 
     }
@@ -70,10 +71,7 @@ $conn->close();
         clear: both;
         display: table;
     }
-    #dataTableContainer {
-        padding-top: 450px; 
-    }
-    </style>
+</style>
 <table id="dancesTable" class="display" style="width:100%">
     <thead>
         <tr>

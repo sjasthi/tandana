@@ -31,6 +31,11 @@ $("a").hover(function(){
             padding: 20px;
             border-radius: 10px; 
         }
+		.container {
+			padding-top: 0 !important; 
+			position: relative; 
+			top: 0 !important; 
+		}
         label {
             color: #000; 
             margin-bottom: 5px; 
@@ -420,5 +425,5 @@ $('.navbar-nav li.page_admin').addClass('active');
 
 });
 
-</script>\
+</script>
 </body>

@@ -34,7 +34,6 @@ $header_image = header_image;
     }
 
     .navigation-container  {
-      position: absolute;
       top: 0;
       left: 0;
       width: 100%;
@@ -77,6 +76,7 @@ $header_image = header_image;
           <li class="settings"><a class ="menubar" href="settings.php">Settings</a></li>
           <!-- <li class="create_form"><a class ="menubar" href="create.php">Create A New Dance</a></li> -->
           <li class="dance_form"><a class ="menubar" href="suggest_dance.php">Suggested Dances</a></li>
+          <li class="dance_form"><a class ="menubar" href="getinfo.php">API</a></li>
         </ul>
 
         <ul class="nav navbar-nav float_right">

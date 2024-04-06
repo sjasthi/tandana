@@ -5,20 +5,9 @@ if(!isset($_SESSION))
     { 
         session_start(); 
     } 
-// Allows user to return 'back' to this page
-ini_set('session.cache_limiter','public');
-session_cache_limiter(false);
-
  ?>
 <!DOCTYPE html>
 <html>
-<!-- <head><script>
-$("a").hover(function(){
-    $(this).css("background-color", "green");
-    }, function(){
-    $(this).css("background-color", "#green");
-});
-</script> -->
 <style>
         textarea {
             height: 400px;
@@ -34,6 +23,11 @@ $("a").hover(function(){
             color: #000; 
             margin-bottom: 5px; 
         }
+		.container {
+			padding-top: 0 !important; 
+			position: relative; 
+			top: 0 !important; 
+		}
     </style>
 </head>
 <body>
@@ -504,5 +498,5 @@ $('.navbar-nav li.page_admin').addClass('active');
 
 });
 
-</script>\
+</script>
 </body>

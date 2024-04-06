@@ -10,6 +10,13 @@ if (!isset($_SESSION)) {
 
 include 'navigation.php';
 ?>
+<style type="text/css">
+		.dances_display, .left_nav {
+			padding-top: 0 !important; 
+			position: relative; 
+			top: 0 !important; 
+		}
+</style>
 <div class="col-md-2 left_nav" style="padding-left: 0;">
 <div class="translation_wrapper">
             <div><a class="dance_telugu_name" href="#" onClick="sortTeluguName('ALL')"> </a></div>
@@ -466,10 +473,11 @@ $conn->close();
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-121774211-1');
 </script>
 </head>
+
+
 <div class="page-break"></div>
 <footer>
 <?php include 'footer.php'; ?>

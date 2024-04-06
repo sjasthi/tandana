@@ -113,6 +113,12 @@ echo "<b>Only admins can update.</b>";
         $('.navbar-nav li.page_admin').addClass('active');
     });
 </script>
-
+<style type="text/css">
+	.container {
+    padding-top: 0 !important; 
+    position: relative; 
+    top: 0 !important; 
+}
+</style>
 </body>
 </html>

@@ -91,7 +91,12 @@ echo "<b>Only admins can update.</b>";
 <footer>
 <?php include 'footer.php'; ?>
 </footer>
-
+<style type="text/css">
+	.dances_display {
+    padding-top: 0 !important; 
+    position: relative; 
+    top: 0 !important; 
+}
 <script type="text/javascript">
     $(document).ready(function() {
         $('.navbar-nav li').removeClass('active');

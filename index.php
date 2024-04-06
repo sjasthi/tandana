@@ -18,13 +18,15 @@ session_cache_limiter(false);
 // Start the session
 session_start();
 ?>
-<head><script>
+<head>
+	<script>
 $("a").hover(function(){
     $(this).css("background-color", "green");
     }, function(){
     $(this).css("background-color", "#3953ad");
 });
-</script></head>
+</script>
+</head>
 <?php
 require_once('db_configuration.php');
 		//$lang_type = $_GET['lang_type'];
@@ -213,7 +215,13 @@ else {
 $conn->close();
 
 ?>
-
+<style>
+	.container {
+		adding-top: 0 !important; 
+		position: relative; 
+		top: 0 !important; 
+	}
+</style>
 <footer>
 <?php include 'footer.php'; ?>
 </footer>	

@@ -156,7 +156,13 @@ echo "<b>Please login as an admin.</b>";
 <footer>
 <?php include 'footer.php'; ?>
 </footer>
-
+<style type="text/css">
+	.container {
+    padding-top: 0 !important; 
+    position: relative; 
+    top: 0 !important; 
+}
+</style>
 <script type="text/javascript">
     $(document).ready(function() {
         $('.navbar-nav li').removeClass('active');
