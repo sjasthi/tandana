@@ -10,12 +10,12 @@
                 <div class="col-md-8 p-5">
                     <h5>API</h5>
                     <p class="mb-0" style="color: #000;">You can access tandana APIs as follows.</p>
-                    <a href="javascript:void(0)"><u>http://localhost/tandana/api/getinfo.php?id=30</u></a>
+                    <a href="javascript:void(0)"><u>http://localhost/tandana2/api/getinfo.php?id=30</u></a>
                     <p style="margin: 20px 0px;color: #000;">By changing the ID at the end of the URL, you can fetch the information about different dances.</p>
                     <p style="margin-bottom: 20px;color: #000;">You can play with the API here. Try entering an ID to see the JSON response.</p>
                     <div class="form-group">
                         <h4 class="text-primary">
-                            <span style="color: black;">BASE URL: </span><u>http://localhost/tandana/api/getinfo.php?id=</u>
+                            <span style="color: black;">BASE URL: </span><u>http://localhost/tandana2/api/getinfo.php?id=</u>
                             <input type="text" id="id" name="id" style="height: 40px; width: 40px;  border-radius: 10px; border: 1px solid black; color: black;">
                         </h4>
                     </div>
@@ -39,7 +39,13 @@
 
 </div>
 
-
+<style type="text/css">
+	.container {
+    padding-top: 0 !important; 
+    position: relative; 
+    top: 0 !important; 
+}
+</style>
 <script>
     $('#get').click(function(e) {
         e.preventDefault();
