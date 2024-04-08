@@ -31,7 +31,7 @@ if (isset($_GET['id'])) {
                 'message' => 'No Record Found',
             ];
 
-            header('HTTP/1.0 404 No Record Found');
+            // header('HTTP/1.0 404 No Record Found');
             header('Content-Type: application/json');
             echo json_encode($data, JSON_PRETTY_PRINT);
         }
