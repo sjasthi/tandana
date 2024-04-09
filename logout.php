@@ -13,5 +13,12 @@ echo '</div>';
 <footer>
 <?php include 'footer.php'; ?>
 </footer>
+<style>
+	.container {
+		padding-top: 0 !important; 
+		position: relative; 
+		top: 0 !important; 
+	}
+</style>
 </body>
 </html>
