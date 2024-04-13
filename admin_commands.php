@@ -127,6 +127,15 @@ if(isset($_SESSION['username'])){
     </td>
     <td style="padding: 40px">
         <center>
+        <a href="Resources.php">
+        <img src="assets/images/4.png" width="150px" height="150px"/>
+        <br>
+        Resources
+        </a>
+        </center>
+    </td>
+    <td style="padding: 40px">
+        <center>
         <a href="create_artists.php">
         <img src="assets/images/10.png" width="150px" height="150px"/>
         <br>
@@ -142,7 +151,7 @@ if(isset($_SESSION['username'])){
     Manage Dances
     </a>
     </center>
-</td>
+    </td>
     </td>
     </tr>
     </tr>

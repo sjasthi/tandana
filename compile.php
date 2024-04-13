@@ -45,7 +45,6 @@ if(isset($_SESSION['username'])){
             <br>
         <h3>What format would you like to use?</h3>
             <input type="radio" name="format_radio" value="HTML" checked>HTML
-            <input type="radio" name="format_radio" value="PDF">PDF
             <br>
         <h3>Generate Table of Contents</h3>
             <input type="checkbox" name="table_of_contents" value="Table of Contents" checked>Yes
