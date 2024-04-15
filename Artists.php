@@ -17,6 +17,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/2.0.0/css/dataTables.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
     <script src="https://cdn.datatables.net/2.0.0/js/dataTables.min.js"></script>
+
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="styles.css">
   <style type="text/css">
@@ -73,9 +74,6 @@
         margin-right: auto; 
         cursor: pointer; 
         text-align: center; 
-    }
-    .navbar-default {
-        margin-bottom: 0;
     }
     .centered-button:hover {
         background-color: #45a049; 

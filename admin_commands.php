@@ -128,7 +128,7 @@ if(isset($_SESSION['username'])){
     <td style="padding: 40px">
         <center>
         <a href="Resources.php">
-        <img src="assets/images/4.png" width="150px" height="150px"/>
+        <img src="assets/images/15.png" width="150px" height="150px"/>
         <br>
         Resources
         </a>
