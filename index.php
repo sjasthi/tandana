@@ -193,8 +193,8 @@ body {
     }
 
     
-    $openai_api_key = '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';
-
+    // $openai_api_key = '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';
+    $openai_api_key = '';
    
     $conn = new mysqli($servername, $db_username, $db_password, $database);
 
