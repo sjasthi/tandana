@@ -9,7 +9,8 @@ require __DIR__ . '/vendor/autoload.php';
 
 use Orhanerday\OpenAi\OpenAi;
 
-$apiKey = "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";
+// $apiKey = "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";
+$apiKey = "";
 
 $userInput = "Replace this with your prompt";
 
