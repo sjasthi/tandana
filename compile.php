@@ -43,8 +43,9 @@ if(isset($_SESSION['username'])){
                 <input type="radio" name="artist_radio" value="First Image" checked>First Image
                 <input type="radio" name="artist_radio" value="All Images">All Images
             <br>
-            
-        
+        <h3>What format would you like to use?</h3>
+            <input type="radio" name="format_radio" value="HTML" checked>HTML
+            <br>
         <h3>Generate Table of Contents</h3>
             <input type="checkbox" name="table_of_contents" value="Table of Contents" checked>Yes
             <br>
@@ -85,9 +86,9 @@ if(isset($_SESSION['username'])){
         </div>';
 // }
 
-//     else{
-//     	echo "0 results";
-//     }
+    // else{
+    // 	echo "0 results";
+    // }
 
 	}
 
@@ -99,7 +100,13 @@ echo "<b>Only admins can compile.</b>";
 <footer>
 <?php include 'footer.php'; ?>
 </footer>
-
+<style type="text/css">
+	.container {
+    padding-top: 0 !important; 
+    position: relative; 
+    top: 0 !important; 
+}
+</style>
 <script type="text/javascript">
     $(document).ready(function() {
         $('.navbar-nav li').removeClass('active');
