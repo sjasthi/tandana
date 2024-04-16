@@ -1,20 +1,25 @@
-<?php include 'navigation.php';
-// Start session to store variables
-if(!isset($_SESSION)) 
-    { 
-        session_start(); 
-    } 
-
-// Allows user to return 'back' to this page
-ini_set('session.cache_limiter','public');
+<?php 
+// Adjust these settings before starting the session
+ini_set('session.cache_limiter', 'public');
 session_cache_limiter(false);
 
- ?>
+// Start session to store variables
+if (!isset($_SESSION)) { 
+    session_start(); 
+} 
+
+include 'navigation.php';
+?>
 <head>
 	<style type="text/css">
 		textarea{
 			height: 300px;
 			width: 400px;
+		}
+		.container {
+			padding-top: 0 !important; 
+			position: relative; 
+			top: 0 !important; 
 		}
 	</style>
 </head>

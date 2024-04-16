@@ -237,6 +237,13 @@ echo "<b>Please login as an admin.</b>";
 
 ?>
 <br>
+<style type="text/css">
+	.container {
+    padding-top: 0 !important; 
+    position: relative; 
+    top: 0 !important; 
+}
+</style>
 <footer>
 <?php include 'footer.php'; ?>
 </footer>

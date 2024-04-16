@@ -1,17 +1,22 @@
-<?php include 'navigation.php';
-
-
-// Start session to store variables
-if(!isset($_SESSION)) 
-    { 
-        session_start(); 
-    } 
-
-// Allows user to return 'back' to this page
-ini_set('session.cache_limiter','public');
+<?php 
+// Adjust these settings before starting the session
+ini_set('session.cache_limiter', 'public');
 session_cache_limiter(false);
 
- ?>
+// Start session to store variables
+if (!isset($_SESSION)) { 
+    session_start(); 
+} 
+
+include 'navigation.php';
+?>
+<style type="text/css">
+		.dances_display, .left_nav {
+			padding-top: 0 !important; 
+			position: relative; 
+			top: 0 !important; 
+		}
+</style>
 <div class="col-md-2 left_nav" style="padding-left: 0;">
 <div class="translation_wrapper">
             <div><a class="dance_telugu_name" href="#" onClick="sortTeluguName('ALL')"> </a></div>
@@ -404,50 +409,6 @@ echo '
 }
 
 
-// if($image_reference_set == true){
-// 	echo '
-// 	<div id="imageCarousel" class="carousel slide" data-ride="carousel">
-// 	<ol class="carousel-indicators">
-// 	';
-// 	for ($i = 0; $i < sizeof($image_reference_array); $i++){
-// 	if($i == 0){
-// 		echo '<li data-target="#imageCarousel" data-slide-to="$i" class="active"></li>';
-// 	}
-// 	else{
-// 		echo '<li data-target="#imageCarousel" data-slide-to="$i"></li>';
-// 	}
-// }
-// echo '
-// </ol>
-// <div class="carousel-inner" role="listbox">
-// ';
-// for ($i = 0; $i < sizeof($image_reference_array); $i++){
-// 	if($i == 0){
-// 		echo '<div class="item active">
-// 					<img src="' . $image_reference_array[$i]. '" width="auto" height="400">
-// 			  </div>';
-// 	}
-// 	else{
-// 		echo '<div class="item">
-// 					<img src="' . $image_reference_array[$i]. '" width="auto" height="400">
-// 			  </div>';
-// 	}
-// }
-// echo '
-// </div>
-// <a class="left carousel-control" href="#imageCarousel" role="button" data-slide="prev">
-// <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-//     <span class="sr-only">Previous</span>
-//   </a>
-//   <a class="right carousel-control" href="#imageCarousel" role="button" data-slide="next">
-//     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-//     <span class="sr-only">Next</span>
-//   </a>
-// </div>
-// ';
-// }
-
-
 
 echo '<br>';
 echo $row["dance_description"];
@@ -512,10 +473,12 @@ $conn->close();
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-121774211-1');
 </script>
 </head>
+
+
+<div class="page-break"></div>
 <footer>
 <?php include 'footer.php'; ?>
 </footer>	

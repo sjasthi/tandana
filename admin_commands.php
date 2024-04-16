@@ -10,59 +10,50 @@ if(isset($_SESSION['username'])){
 
     echo 
     '
-    <div class="container top_space">
+    <div class="container top_space"  >
     <center>
     <table>
     <tr>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="compile.php">
-        <img src="assets/images/compile.png" width="150px" height="150px"/>
+        <img src="assets/images/13.png" width="150px" height="150px"/>
         <br>
         Compile
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
-        <center>
-        <a href="pdf.php" target="_blank">
-        <img src="assets/images/pdf.png" width="150px" height="150px"/>
-        <br>
-        PDF
-        </a>
-        </center>
-    </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="html.php" target="_blank">
-        <img src="assets/images/html.png" width="150px" height="150px"/>
+        <img src="assets/images/11.png" width="150px" height="150px"/>
         <br>
         HTML
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
-        <a href="create.php">
-        <img src="assets/images/add.png" width="150px" height="150px"/>
+        <a href="create_dances.php">
+        <img src="assets/images/14.png" width="150px" height="150px"/>
         <br>
-        Add
+        Add Dances
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="profile.php">
-        <img src="assets/images/users.png" width="150px" height="150px"/>
+        <img src="assets/images/3.png" width="150px" height="150px"/>
         <br>
         Users
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="report.php">
-        <img src="assets/images/report.png" width="150px" height="150px"/>
+        <img src="assets/images/12.png" width="150px" height="150px"/>
         <br>
         Report
         </a>
@@ -70,95 +61,96 @@ if(isset($_SESSION['username'])){
     </td>
     </tr>
     <tr>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="export.php">
-        <img src="assets/images/export.png" width="150px" height="150px"/>
+        <img src="assets/images/9.png" width="150px" height="150px"/>
         <br>
         Export
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="import.php">
-        <img src="assets/images/import.png" width="150px" height="150px"/>
+        <img src="assets/images/8.png" width="150px" height="150px"/>
         <br>
         Import
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="contents.php">
-        <img src="assets/images/contents.png" width="150px" height="150px"/>
+        <img src="assets/images/7.png" width="150px" height="150px"/>
         <br>
         Contents
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="images.php">
-        <img src="assets/images/images.png" width="150px" height="150px"/>
+        <img src="assets/images/6.png" width="150px" height="150px"/>
         <br>
         Images
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="videos.php">
-        <img src="assets/images/videos.png" width="150px" height="150px"/>
+        <img src="assets/images/5.png" width="150px" height="150px"/>
         <br>
         Videos
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="configure_edit.php">
-        <img src="assets/images/configure.png" width="150px" height="150px"/>
+        <img src="assets/images/2.png" width="150px" height="150px"/>
         <br>
         Configure
         </a>
         </center>
     </td>
     <tr>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
         <a href="create_resources.php">
-        <img src="assets/images/003-512.png" width="150px" height="150px"/>
+        <img src="assets/images/4.png" width="150px" height="150px"/>
         <br>
         Create Resources
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
+    <td style="padding: 40px">
         <center>
-        <a href="update_resources.php">
-        <img src="assets/images/index.png" width="150px" height="150px"/>
+        <a href="Resources.php">
+        <img src="assets/images/15.png" width="150px" height="150px"/>
         <br>
-        Edit Resources
+        Resources
         </a>
         </center>
-     <td style="padding: 20px">
+    </td>
+    <td style="padding: 40px">
         <center>
         <a href="create_artists.php">
-        <img src="assets/images/index_dance.png" width="150px" height="150px"/>
+        <img src="assets/images/10.png" width="150px" height="150px"/>
         <br>
         Create Artist
         </a>
         </center>
     </td>
-    <td style="padding: 20px">
-        <center>
-        <a href="update_artists.php">
-        <img src="assets/images/edit.png" width="150px" height="150px"/>
-        <br>
-        Edit Artist
-        </a>
-        </center>
+    <td style="padding: 40px">
+    <center>
+    <a href="manage_dances.php">
+    <img src="assets/images/1.png" width="150px" height="150px"/>
+    <br>
+    Manage Dances
+    </a>
+    </center>
     </td>
     </td>
     </tr>
@@ -184,5 +176,12 @@ echo "<b>Please login as an admin.</b>";
         $('.navbar-nav li.page_admin').addClass('active');
     });
 </script>
+<style type="text/css">
+	.container {
+    padding-top: 0 !important; 
+    position: relative; 
+    top: 0 !important; 
+}
+</style>
 </body>
 </html>

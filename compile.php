@@ -45,7 +45,6 @@ if(isset($_SESSION['username'])){
             <br>
         <h3>What format would you like to use?</h3>
             <input type="radio" name="format_radio" value="HTML" checked>HTML
-            <input type="radio" name="format_radio" value="PDF">PDF
             <br>
         <h3>Generate Table of Contents</h3>
             <input type="checkbox" name="table_of_contents" value="Table of Contents" checked>Yes
@@ -101,7 +100,13 @@ echo "<b>Only admins can compile.</b>";
 <footer>
 <?php include 'footer.php'; ?>
 </footer>
-
+<style type="text/css">
+	.container {
+    padding-top: 0 !important; 
+    position: relative; 
+    top: 0 !important; 
+}
+</style>
 <script type="text/javascript">
     $(document).ready(function() {
         $('.navbar-nav li').removeClass('active');

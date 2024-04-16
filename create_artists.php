@@ -5,31 +5,47 @@ if(!isset($_SESSION))
     { 
         session_start(); 
     } 
-// Allows user to return 'back' to this page
-ini_set('session.cache_limiter','public');
-session_cache_limiter(false);
+// // Allows user to return 'back' to this page
+// ini_set('session.cache_limiter','public');
+// session_cache_limiter(false);
 
  ?>
 <!DOCTYPE html>
 <html>
-<head><script>
+<head>
+<!-- <script>
 $("a").hover(function(){
     $(this).css("background-color", "green");
     }, function(){
     $(this).css("background-color", "#3953ad");
 });
-</script>
-	<style>
-	textarea{
-		height: 400px;
-		width: 600px;
-	}
-	</style>
+</script> -->
+<style>
+        textarea {
+            height: 400px;
+            width: 600px;
+        }
+        div.submit_wrapper {
+            background-color: #f7dc83; 
+            color: white; 
+            padding: 20px;
+            border-radius: 10px; 
+        }
+		.container {
+			padding-top: 0 !important; 
+			position: relative; 
+			top: 0 !important; 
+		}
+        label {
+            color: #000; 
+            margin-bottom: 5px; 
+        }
+</style>
 </head>
 <body>
 
 <div class="container submit_wrapper top_space" style="float: left; width:45%;">
-  <h3 class="headline_white">Add an Artist</h3>
+  <h3 class="headline_white" style="color : #000">Add an Artist</h3>
   <?php
   require_once('db_configuration.php');
 
@@ -341,7 +357,7 @@ function test_input($data){
 </tr>
 <tr>
 <td>
-<input type="text" name="address" value="<?php echo $address;?>">
+<input type="text" name="address" value="<?php echo $address;?>"><br><br>
 </td>
 </tr>
 
@@ -409,5 +425,5 @@ $('.navbar-nav li.page_admin').addClass('active');
 
 });
 
-</script>\
+</script>
 </body>

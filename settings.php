@@ -7,6 +7,7 @@
 	.form-horizontal{
 		position: absolute;
 		top:400px;
+    margin-top: 40px;
 	}
 	.btn-custom{
 		position: absolute;

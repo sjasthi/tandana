@@ -40,7 +40,13 @@ if(!isset($_SESSION))
     	}
     }
  ?>
-
+<style type="text/css">
+	.container {
+    padding-top: 0 !important; 
+    position: relative; 
+    top: 0 !important; 
+}
+</style>
 <footer>
 <?php include 'footer.php'; ?>
 </footer>

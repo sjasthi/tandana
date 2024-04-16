@@ -1,35 +1,49 @@
-<?php include 'navigation.php';
-
-// Start session to store variables
-if(!isset($_SESSION)) 
-    { 
-        session_start(); 
-    } 
-// Allows user to return 'back' to this page
+<?php 
+// Allows user to return 'back' to this page without caching issues
 ini_set('session.cache_limiter','public');
 session_cache_limiter(false);
 
- ?>
+// Start session to store variables
+session_start(); 
+
+include 'navigation.php';
+?>
 <!DOCTYPE html>
 <html>
-<head><script>
+<head>
+<!-- <script>
 $("a").hover(function(){
     $(this).css("background-color", "green");
     }, function(){
     $(this).css("background-color", "#3953ad");
 });
-</script>
-	<style>
-	textarea{
-		height: 400px;
-		width: 600px;
-	}
-	</style>
+</script> -->
+<style>
+        textarea {
+            height: 400px;
+            width: 600px;
+        }
+        div.submit_wrapper {
+            background-color: #f7dc83; 
+            color: white; 
+            padding: 20px;
+            border-radius: 10px; 
+        }
+		.container {
+			padding-top: 0 !important; 
+			position: relative; 
+			top: 0 !important; 
+		}
+        label {
+            color: #000; 
+            margin-bottom: 5px; 
+        }
+</style>
 </head>
 <body>
 
 <div class="container submit_wrapper top_space" style="float: left; width:45%;">
-  <h3 class="headline_white">Add a Resource</h3>
+  <h3 class="headline_white" style="color : #000">Add a Resource</h3>
   <?php
   require_once('db_configuration.php');
 
@@ -166,9 +180,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
 	$sql = "INSERT INTO Resources (resource_type, resource_names, publication_company, author2_name, resource_location, ISBN, publication_date, author_name,author3_name)
 	VALUES ('$resource_type', '$resource_names', '$publication_company', '$author2_name', '$resource_location', '$ISBN', '$publication_date_to_insert', '$author_name','$author3_name_to_insert')";
 
-	echo($sql);
-	echo('date is '.$publication_date);
-	echo('author3_name is '.$author3_name);
+	// echo($sql);
+	// echo('date is '.$publication_date);
+	// echo('author3_name is '.$author3_name);
 
 //Close Connection
 			if ($conn->query($sql) === TRUE) {
@@ -316,7 +330,7 @@ function test_input($data){
 
 <!-- Submit Button -->
 <tr>
-<td>
+<td><br>
 <input class="orange_button" type="submit" name="submit" value="Submit">
 </td>
 </tr>
@@ -377,5 +391,5 @@ $('.navbar-nav li.page_admin').addClass('active');
 
 });
 
-</script>\
+</script>
 </body>

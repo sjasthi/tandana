@@ -1,5 +1,14 @@
 <?php
-$conn = new mysqli("localhost","thisitz6_tandana" ,"Pittaladora!23" , "thisitz6_tana_tandana");        
+require_once('db_configuration.php');
+
+// Establishing Connection with Server
+$servername = DATABASE_HOST;
+$db_username = DATABASE_USER;
+$db_password = DATABASE_PASSWORD;
+$database = DATABASE_DATABASE;
+
+// Create connection
+$conn = new mysqli($servername, $db_username, $db_password, $database);
 if ($conn->connect_error) {
     die('Connect Error (' . $conn->connect_errno . ') '
             . $conn->connect_error);
