@@ -26,6 +26,7 @@ $conn->set_charset("utf8");
 if(isset($_POST['login'])){
 	$username = mysqli_real_escape_string($conn,$_POST['username']);
 	$password = sha1(mysqli_real_escape_string($conn,($_POST['password'])));
+
 	$sel_user = "SELECT * FROM login WHERE username='$username' AND password='$password'";
 	$run_user = mysqli_query($conn, $sel_user);
 	$check_user = mysqli_num_rows($run_user);
@@ -37,8 +38,9 @@ if(isset($_POST['login'])){
 		$_SESSION['username']=$username;
 		echo "SUCCESS!";
 		echo $_SESSION['username'];
-		// echo "<script>window.open('profile.php','_self')</script>";
+		echo "<script>window.open('admin_commands.php','_self')</script>";
 		header("Location: admin_commands.php");
+		exit();
 	}
 
 	else{
