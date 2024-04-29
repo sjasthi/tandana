@@ -123,7 +123,7 @@ $conn = new mysqli($servername, $db_username, $db_password, $database);
                                 echo "<td>$value</td>";
                             }
                             if (isset($_SESSION['username'])) {
-                                echo '<td><a href="update_artists.php?id=' . $row[0] . '">Edit </a><a href="delete_artist.php?id=' . $row[0] . '">Delete</a></td>';
+                                echo '<td><a href="update_resources.php?id=' . $row[0] . '">Edit </a><a href="delete_resource.php?id=' . $row[0] . '">Delete</a></td>';
                             }
                             echo "</tr>";
                         }
