@@ -28,6 +28,11 @@ if(!isset($_SESSION))
 			position: relative; 
 			top: 0 !important; 
 		}
+		.container input[type="text"],
+		.container textarea,
+		.container select{
+			color: black;
+		}
     </style>
 </head>
 <body>

@@ -40,6 +40,11 @@ $("a").hover(function(){
             color: #000; 
             margin-bottom: 5px; 
         }
+		.container input[type="text"],
+		.container textarea,
+		.container select{
+			color: black;
+		}
 </style>
 </head>
 <body>

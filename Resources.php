@@ -1,10 +1,17 @@
 <?php include 'navigation.php';
-
+require_once('db_configuration.php');
     if (!isset($_SESSION)) {
         session_start();
     }
 
-    $conn = new mysqli("localhost", "root", "", "tandana_db");
+// Establishing Connection with Server
+$servername = DATABASE_HOST;
+$db_username = DATABASE_USER;
+$db_password = DATABASE_PASSWORD;
+$database = DATABASE_DATABASE;
+
+// Create connection
+$conn = new mysqli($servername, $db_username, $db_password, $database);
     if ($conn->connect_error) {
         die('Connect Error (' . $conn->connect_errno . ') ' . $conn->connect_error);
     }                   
@@ -116,7 +123,7 @@
                                 echo "<td>$value</td>";
                             }
                             if (isset($_SESSION['username'])) {
-                                echo '<td><a href="update_artists.php?id=' . $row[0] . '">Edit </a><a href="delete_artist.php?id=' . $row[0] . '">Delete</a></td>';
+                                echo '<td><a href="update_resources.php?id=' . $row[0] . '">Edit </a><a href="delete_resource.php?id=' . $row[0] . '">Delete</a></td>';
                             }
                             echo "</tr>";
                         }

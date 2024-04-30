@@ -16,6 +16,11 @@ session_cache_limiter(false);
 			height: 300px;
 			width: 400px;
 		}
+		.container {
+    		padding-top: 0 !important; 
+    		position: relative; 
+    		top: 0 !important; 
+		}
 	</style>
 </head>
 <div class="container top_space" style="float:left;">

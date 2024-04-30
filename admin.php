@@ -19,16 +19,16 @@ if(!isset($_SESSION))
 		<td colspan="3"><h2>User Login</h2></td>
 		</tr>
 		<tr>
-		<td align="right"><b>Username</b></td>
+		<td align="right"><b>Username: </b></td>
 		<td><input type="text" name="username" required="required" placeholder="Username"></td>
 		</tr>
 		<tr>
-		<td align="right"><b>Password:</b></td>
+		<td align="right"><b>Password: </b></td>
 		<td><input type="password" name="password" required="required" placeholder="Password"></td>
 		</tr>
 		<tr align="center">
 		<td colspan="3">
-		<input type="submit" name="login" value="Login"/>
+		<br><br><input type="submit" name="login" value="Login"/>
 		</td>
 		</tr>
 		</table>
